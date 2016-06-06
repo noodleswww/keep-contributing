@@ -1,0 +1,6 @@
+
+
+
+
+* * * * * /Users/company/github/keep-conributing/crontab.sh >> /Users/company/github/keep-contribution/keep-contributing.log 2>&1
+* * * * * echo 'test'  >> /Users/company/github/keep-contribution/keep-contributing.log 2>&1 
