@@ -1,1 +1,7 @@
 /bin/sh: 1: /alidata/www/keep-contributing/crontab.sh: Permission denied
+[master 2338e1f] daily contributing
+ 4 files changed, 5 insertions(+), 3 deletions(-)
+ mode change 100644 => 100755 crontab.sh
+ create mode 100644 keep-contributing.log
+To git@github.com:noodleswww/keep-contributing.git
+   27002f4..2338e1f  master -> master
